@@ -6,3 +6,5 @@ Using TensorFlow Extended components to mix-and-match pipelines through genetic 
 [TensorFlow Extended](https://www.tensorflow.org/tfx) is a Google-production-scale machine learning platform based on TensorFlow. It provides a configuration framework and shared libraries to integrate common components needed to define, launch, and monitor your machine learning system.
 
 TensorFlow Auto is the TPOT of TensorFlow. Instead of using scikit-learn components, it uses the [TFX ones](https://www.tensorflow.org/tfx/guide).
+
+Indeed, there are automated machine learning tools which include Neural Network capabilities, such as [auto-keras](https://autokeras.com/), but compared to the wide range of components recently presented as part of TFX, they pale in comparison.
